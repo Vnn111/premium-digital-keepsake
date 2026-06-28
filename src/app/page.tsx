@@ -48,10 +48,10 @@ export default function Home() {
         >
           <div className="w-full rounded-2xl border border-black/10 bg-white/80 p-6 shadow-sm backdrop-blur sm:p-7">
             <p className="text-xs uppercase tracking-[0.16em] text-[#800020]/70">
-              Private Keepsake
+              Private Private Letter
             </p>
             <h1 className="mt-3 text-2xl font-semibold leading-tight sm:text-3xl">
-              Enter our significant date to unlock the keepsake
+              Enter our Anniversary Date to unlock this Letter
             </h1>
             <p className="mt-2 text-sm text-neutral-600">
               Use MM-DD-YYYY format to continue.
@@ -81,7 +81,7 @@ export default function Home() {
                 type="submit"
                 className="w-full rounded-xl bg-[#800020] px-4 py-3 text-sm font-medium text-white transition hover:opacity-95 active:scale-[0.99]"
               >
-                Unlock Keepsake
+                Unlock Letter
               </button>
             </form>
           </div>
