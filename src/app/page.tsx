@@ -48,7 +48,7 @@ export default function Home() {
         >
           <div className="w-full rounded-2xl border border-black/10 bg-white/80 p-6 shadow-sm backdrop-blur sm:p-7">
             <p className="text-xs uppercase tracking-[0.16em] text-[#800020]/70">
-              Private Private Letter
+              Private Letter
             </p>
             <h1 className="mt-3 text-2xl font-semibold leading-tight sm:text-3xl">
               Enter our Anniversary Date to unlock this Letter
