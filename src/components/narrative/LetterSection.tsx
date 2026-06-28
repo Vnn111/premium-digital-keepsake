@@ -16,7 +16,7 @@ export function LetterSection() {
     <section className="mx-auto w-full max-w-3xl rounded-2xl border border-black/10 bg-white/75 p-6 shadow-sm backdrop-blur sm:p-10">
       <header className="mb-8 text-center sm:mb-10">
         <p className="text-xs uppercase tracking-[0.16em] text-[#800020]/70">
-          The Narrative Core
+        
         </p>
         <h2 className="mt-3 text-3xl font-semibold leading-tight sm:text-4xl">
           A Letter For You
