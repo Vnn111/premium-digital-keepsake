@@ -17,7 +17,7 @@ export function ImmersiveMediaStream({ images }: ImmersiveMediaStreamProps) {
     <section className="mx-auto w-full max-w-3xl">
       <header className="mb-5 text-center sm:mb-7">
         <p className="text-xs uppercase tracking-[0.16em] text-[#800020]/70">
-          Immersive Media Stream
+          
         </p>
         <h3 className="mt-2 text-2xl font-semibold leading-tight sm:text-3xl">
           Our Moments
